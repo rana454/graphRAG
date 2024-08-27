@@ -137,7 +137,7 @@ stack-data==0.6.3
 statsmodels==0.14.2
 streamlit==1.37.1
 swifter==1.4.0
-tenacity==8.5.0
+tenacity
 textual==0.76.0
 threadpoolctl==3.5.0
 tiktoken==0.7.0
