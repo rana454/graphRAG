@@ -1,0 +1,778 @@
+The Insecticides Rules, 1971
+CHAPTER I - PRELIMINARY
+1. Short Title and Commencement
+(a) These rules may be called the Insecticides Rules, 1971.
+(b) They shall come into force on the 30th of October, 1971.
+2. Definitions
+(a) "Act" means the Insecticides Act, 1968 (46 of 1968);
+(b) "Expiry date" means the date mentioned on the container, label, or wrapper against the column 'date of expiry';
+(c) "Form" means a form set out in the First Schedule;
+(d) "Laboratory" means the Central Insecticides Laboratory;
+(e) "Schedule" means a schedule annexed to these rules;
+(f) "Pests" means any insects, rodents, fungi, weeds, and other forms of plant or animal life not useful to human beings;
+(g) "Primary package" means the immediate package containing the insecticides;
+(h) "Principal" means the importer or manufacturer of insecticides, as the case may be;
+(i) "Registration" includes provisional registration;
+(j) "Rural area" means an area which falls outside the limits of any Municipal Corporation, Municipal Committee, Notified Area Committee, or Cantonment;
+(k) "Secondary package" means a package which is neither a primary package nor a transportation package;
+(l) "Section" means a section of the Act;
+(m) "Testing facility" means an operational unit where experimental studies are being carried out or have been carried out in relation to submission of data on product quality, safety, efficacy, residues, or stability in storage of the insecticides for which an application for registration is made;
+(n) "Transportation package" means the outermost packages used for the transportation of insecticides.
+
+CHAPTER II - FUNCTIONS OF THE BOARD, REGISTRATION COMMITTEE, AND LABORATORY
+3. Functions of the Board
+The Board shall, in addition to the functions assigned to it by the Act, carry out the following functions:
+(a) Advise the Central Government on the manufacture of insecticides under the Industries (Development and Regulation) Act, 1951 (65 of 1951);
+(b) Specify the uses of and classify insecticides based on their toxicity and suitability for aerial application;
+(c) Advise on tolerance limits for insecticide residues and establish minimum intervals between the application of insecticides and harvest for various commodities;
+(d) Specify the shelf-life of insecticides;
+(e) Suggest colorization, including coloring matter that may be mixed with concentrates of insecticides, particularly those of a highly toxic nature;
+(f) Carry out such other functions as are supplemental, incidental, or consequential to any of the functions conferred by the Act or these rules.
+4. Functions of the Registration Committee
+The Registration Committee shall, in addition to the functions assigned to it by the Act, perform the following functions:
+(a) Specify the precautions to be taken against poisoning through the use or handling of insecticides;
+(b) Carry out such other incidental or consequential matters necessary for carrying out the functions assigned to it under the Act or these rules.
+5. Functions of the Laboratory
+The functions of the Laboratory shall be as follows:
+(a) To analyze samples of insecticides sent to it under the Act by any officer or authority authorized by the Central or State Governments and submit certificates of analysis to the concerned authority;
+(b) To analyze samples of materials for insecticide residues under the provisions of the Act;
+(c) To carry out such investigations as may be necessary to ensure the conditions of registration of insecticides;
+(d) To determine the efficacy and toxicity of insecticides;
+(e) To carry out such other functions as may be entrusted to it by the Central Government or by a State Government with the permission of the Central Government and after consultation with the Board.
+
+CHAPTER III - REGISTRATION OF INSECTICIDES
+
+  
+Section 6: Manner of Registration
+Application for Registration:
+Form Submission: The application for insecticide registration must be submitted in Form I. It should be signed by the relevant authority based on the applicant's status:
+Individual: Signed by the individual or an authorized person.
+Hindu Undivided Family (HUF): Signed by the Karta or an authorized person.
+Partnership Firm: Signed by the managing partner.
+Company: Signed by a person authorized by the Board of Directors.
+Other Entities: Signed by the person in charge of the business.
+Notification of Changes: Any changes in members of the HUF, partners, Board of Directors, or the responsible person must be reported to the Secretary of the Central Insecticides Board, Registration Committee, and Licensing Officer.
+Inspection: The Registration Committee may inspect the "testing facility" to verify the data's authenticity.
+Application and Fees:
+Form and Fee Submission: The application form, duly completed, must be accompanied by a treasury challan showing the payment of a registration fee of ₹100. It should be sent to the Registration Committee at the Department of Agriculture, Government of India, New Delhi.
+Payment Details: The registration fee should be paid via a demand draft drawn on the State Bank of India, Faridabad, in favor of the Accounts Officer, Directorate of Plant Protection, Quarantine, and Storage, Faridabad, Haryana.
+Certificate of Registration:
+Issuance: The certificate of registration will be issued in Form II or Form II-A, depending on the case, and will be subject to the specified conditions.
+Duplicate Certificate of Registration:
+Fee: A fee of ₹5 is required for a duplicate certificate if the original is defaced, damaged, or lost.
+Section 7: Appeal Process
+Filing an Appeal:
+Appeal Submission: An appeal against any decision of the Registration Committee under Section 9 should be submitted in writing (in Form II-B in duplicate) to the Central Government in the Department of Agriculture.
+Appeal Contents: The appeal must be concise and list the grounds under distinct headings.
+Fee: The appeal must be accompanied by a treasury challan showing the payment of a fee of ₹10 and a copy of the decision being appealed.
+Payment Method: The fee must be paid via a demand draft drawn on the State Bank of India, Faridabad, in favor of the Accounts Officer, Directorate of Plant Protection, Quarantine, and Storage, Faridabad, Haryana.
+Section 8: Publication of Refusal to Register or Cancellation of Registration
+Publication Requirements:
+Refusal or Cancellation: If registration is refused or a certificate is canceled, the decision must be published in at least two widely circulated English and Hindi newspapers and any journals published by the Department of Agriculture, Government of India.
+Chapter IV: Grant of Licenses
+Section 9: Licenses to Manufacture Insecticides
+Application Process:
+Form and Fee Submission: Applications for manufacturing licenses or renewals must be submitted in Form III or Form IV, as applicable, to the licensing officer, accompanied by a fee of ₹50 per insecticide (up to a maximum of ₹500).
+Multiple Locations: Separate applications are required for manufacturing insecticides at different locations.
+License Issuance:
+Conditions: Licenses will be issued in Form V and must be displayed prominently on the premises. Any changes in expert staff must be reported to the licensing officer.
+Additional Insecticides: If the licensee wishes to manufacture additional insecticides, they must apply for an endorsement on the license, along with the prescribed fee.
+Refusal to Grant License:
+Inspection: No license will be granted unless the premises are adequately equipped with necessary plant, machinery, safety devices, and first-aid facilities.
+Duplicate License:
+Fee: A fee of ₹5 is required for a duplicate license if the original is defaced, damaged, or lost.
+Section 10: License for Sale, etc., of Insecticides
+Application Process:
+Form and Fee Submission: Applications for a license to sell, stock, exhibit for sale, or distribute insecticides must be submitted in Form VI or Form VII, as applicable, to the licensing officer, accompanied by the specified fees.
+Fees:
+Fee Structure: The fee is ₹20 per insecticide, up to a maximum of ₹300. Separate fees apply for different sale locations. For household insecticides, the fee is ₹10 per location, and for rural areas, the fee is one-fifth of the standard fee.
+License Issuance:
+Conditions: Licenses will be issued in Form VIII and must be displayed prominently on the premises. The licensee must comply with all applicable laws and regulations.
+Additional Insecticides:
+Endorsement: If the licensee wishes to sell additional insecticides, they must apply for an endorsement on the license, along with the prescribed fee.
+Principal's Certificate:
+Requirement: Every applicant must submit a certificate from the principal they represent. The certificate must contain the principal's registration and manufacturing license numbers, the authorized person's details, and the types of formulations to be used.
+Refusal to Grant License:
+Hearing: The licensing officer may refuse to grant a license after giving the applicant a reasonable opportunity to be heard.
+Duplicate License:
+Fee: A fee of ₹5 is required for a duplicate license if the original is defaced, damaged, or lost.
+Segregation and Disposal of Date-Expired Pesticides:
+Procedure: Expired stocks must be segregated, stamped as "not for sale" or "not for use," and stored separately. Disposal must follow the guidelines set by the Central Government in consultation with the Central Insecticide Board.
+Section 10-B: Special Provisions for Sulphur
+Precautions:
+Theft Prevention: Licensees must take precautions to prevent the theft of sulphur and its formulations and report any theft to the police. A register must be maintained with the details of all sales and distributions.
+Section 10-C: Prohibition Against Sale or Storage in Certain Places
+Prohibited Locations:
+Restrictions: Insecticides cannot be manufactured, stored, or sold in buildings where consumable items are also manufactured, stored, or sold, except for household insecticides registered as such and properly packed and labeled.
+Section 11: Duration of Licenses
+License Validity:
+Standard Duration: Licenses are valid for two years unless suspended or canceled earlier.
+Renewal: Applications for renewal must be submitted before the license expires. Late fees apply for applications submitted after expiration.
+Section 12: Conditions of License
+Granting a License:
+Premises Requirements: Licenses will not be granted unless the premises are adequately equipped with proper storage facilities.
+Considerations: Licensing officers will consider the number of licenses granted in the locality and the applicant's occupation or business.
+Section 13: Varying or Amending a License
+Amendment Process:
+License Changes: Licensing officers may vary or amend a license upon request or if conditions have changed, after ensuring the Registration Committee has amended the registration certificate.
+Section 14: Transfer of License
+Transfer Process:
+Application: License holders may apply to transfer their license before it expires, accompanied by a fee of ₹5.
+Approval: Licensing officers may approve the transfer after an inquiry.
+ 
+Issuing Cash Memo and Maintenance of Records
+Sales Documentation: All insecticide sales must be documented via a bill or cash memo, adhering to prescribed legal forms.
+Register and Reporting: Sales to licensed entities must be recorded insecticide-wise in a register (Form XIII), with monthly state-wise returns sent to the licensing officer within 15 days post-month-end (Form XIV).
+Stock Register: Importers/manufacturers must maintain a stock register for technical grade insecticides (Form XV) and formulated insecticides (Form XVI).
+Government Notices: The government may request, in writing, any information regarding insecticides or batches thereof, including distribution details.
+Chapter V: Packing and Labeling
+16. Prohibition of Sale Without Proper Packaging and Labeling
+Insecticides cannot be sold, distributed, or transported unless packed and labeled per these rules.
+17. Packaging Requirements
+Approved Packaging: Every insecticide package must be of a type approved by the Registration Committee.
+Batch Analysis: Before packaging, each batch must be analyzed as per manufacturing specifications, with results recorded.
+18. Leaflet Inclusion
+Content: Every insecticide package must include a leaflet with details on usage, safety precautions, storage, disposal, antidotes, and common names as per the International Standards Organization.
+Approval: Leaflets must be approved by the Registration Committee.
+19. Labeling Standards
+Required Details: Labels must include manufacturer details, insecticide name, registration number, ingredient percentages, net content, batch number, expiry date, and antidote statement.
+Label Affixing: Labels must be affixed so they can't be easily removed.
+Warning Symbols and Colors: Labels must display specific symbols and colors based on toxicity:
+Category I: Skull and crossbones, "POISON" in red.
+Category II: "POISON" in red.
+Category III: "DANGER".
+Category IV: "CAUTION".
+Toxicity Color Codes:
+Extremely Toxic: Red
+Highly Toxic: Yellow
+Moderately Toxic: Blue
+Slightly Toxic: Green
+Inflammable Warnings: Labels must indicate if the insecticide is flammable.
+Multilingual Labels: Labels must be in Hindi, English, and relevant regional languages.
+Prohibition on Misleading Claims: Labels must not make unwarranted safety claims.
+20. Altering Labels Prohibited
+Altering or defacing labels or packaging inscriptions is prohibited unless directed by the Registration Committee.
+Chapter VI: Insecticide Analysis and Inspectors
+21. Qualifications of Insecticide Analyst
+Must be a graduate in Agriculture or Science with Chemistry specialization and have adequate training in insecticide analysis.
+22. Powers of Insecticide Analyst
+Analysts can request necessary information for proper sample examination.
+23. Duties of Insecticide Analyst
+Sample Testing: Analysts must analyze/test samples sent by inspectors and provide reports.
+Reporting: Analysts must periodically forward analytical reports to the State Government for potential publication.
+24. Procedure on Receipt of Sample
+Sample Handling: On receipt of a sample, analysts must verify seals and note their condition.
+Testing Methodology: Analysts must follow the Registration Committee's approved methods for analysis.
+Reporting Results: Analysts must supply test results in triplicate (Form IX) to the Insecticide Inspector.
+ 
+25. Fees payable for testing or analysis
+The fees payable for testing or analyzing insecticides under sub-section (5) of Sec. 24 of the Act shall be as specified in the Second Schedule.
+The fee payable for testing or analyzing samples received from the Insecticides Inspector shall also be as specified in the Second Schedule:
+Provided that the Central Government may, after taking into consideration the genuine difficulties of any particular State Government, exempt from the payment of the fee for such period as it may consider reasonable.
+26. Qualifications of Insecticide Inspector
+A person shall be eligible for appointment as an Insecticide Inspector under the Act only if he possesses the following qualifications, namely: a. Graduate in Agriculture, or graduate in Science with Chemistry as one of the subjects. b. Adequate field experience.
+27. Duties of Insecticide Inspector
+The Insecticide Inspector shall have the following duties namely:
+To inspect not less than three times in a year all establishments selling insecticides within the area of his jurisdiction;
+To satisfy himself that the conditions of the license are being complied with;
+To procure and send for test and analysis, samples of insecticide which he has reason to suspect are being sold, stocked, or accepted for sale in contravention of the provisions of the act or rules made thereunder;
+To investigate any complaint in writing which may be made to him;
+To institute prosecution in respect of breaches of the Act and the rules made thereunder;
+To maintain a record of all inspections made and action taken by him in the performance of his duties including the taking of samples and seizure of stocks and to submit copies of such records to the licensing officer;
+To make such inquiries and inspections as may be necessary to detect the sale and use of insecticides in contravention of the Act.
+28. Duties of Inspectors specially authorized to inspect the manufacture of insecticides
+It shall be the duty of any Inspector authorized to inspect the manufacture of insecticides:
+To inspect not less than twice a year all premises licensed for the manufacture of insecticides within the area of his jurisdiction and to satisfy himself that the conditions of the license and the provisions of the Act or the rules made thereunder are being observed;
+To send forthwith to the licensing officer after each inspection, a detailed report indicating the conditions of the license and the provisions of the Act or rules made thereunder which are being observed and the conditions and provisions, if any, which are not being observed;
+To draw samples of insecticides manufactured on the premises and send them for test or analysis in accordance with these rules;
+To report to the Government all occurrences of poisoning.
+29. Prohibition of disclosure of information
+Except for the purpose of official business or when required by a court of law, an Insecticide Inspector shall not disclose to any person any information acquired by him in the performance of his official duties.
+30. Form of order not to dispose of stock
+An order by the Insecticide Inspector requiring a person not to dispose of any stock in his possession shall be in Form X.
+31. Prohibition of Sale
+No person in possession of an insecticide in respect of which an Insecticide Inspector has made an order under rule 30 shall, in contravention of that order, sell or otherwise dispose of any stock of such insecticide.
+32. Form of Receipt for seized insecticides
+A receipt by an Insecticide Inspector for the stock of any insecticide seized shall be in Form XI.
+33. Form of intimation of purposes of taking samples
+Where an Inspector takes a sample of an insecticide for the purpose of test or analysis he shall intimate such purpose in writing in Form XII to the person from whom he takes it.
+34. Dispatch of samples for test or analysis
+Samples for test or analysis under the Act shall be sent by registered post or by hand in a sealed packet together with a memorandum in Form XII in an outer cover addressed to the Insecticide Analyst.
+The packet as well as the outer cover shall be marked with a distinct mark.
+A copy of the memorandum in Form XIII together with a specimen impression of the seals of the Inspector and of the seals, if any, of the person from whom he takes such samples, shall be sent separately by registered post or by hand to the Insecticide Analyst.
+Chapter VII: Transport and Storage of Insecticides in Transit by Rail, Road, or Water
+35. Manner of packing, storage while in transit by rail
+Packages containing insecticides, offered for transport by rail, shall be packed in accordance with the conditions specified in the Rail Tariff, issued by the Ministry of Railways.
+No insecticide shall be transported or stored in such a way as to come into direct contact with foodstuffs or animal feeds.
+No foodstuffs or animal feeds which got mixed up with insecticides as a result of any damage to the packages containing insecticides during transport or storage shall be released to the consignees unless it has been examined for possible contamination by competent authorities, as may be notified by the State Government.
+If any insecticide is found to have leaked out in transport or storage it shall be the responsibility of the transport agency or the storage owner to take such measure urgently to prevent poisoning and pollution of soil or water, if any.
+36. Conditions to be specified for storage of insecticides
+The package containing insecticides shall be stored in separate rooms or premises away from the rooms or premises used for storing articles or shall be kept in separate almirahs under lock and key depending upon the quantity and nature of the insecticides.
+The rooms or premises meant for storing insecticides shall be well built, dry, well-lit, and ventilated, and of sufficient dimension.
+Chapter VIII: Provisions regarding protective clothing, equipment, and other facilities for workers during manufacture, etc. of insecticides
+37. Medical Examination
+All persons who are engaged in the work of handling, dealing, or otherwise coming in contact with the insecticides during manufacture/formulation of insecticides or being engaged in spraying during operation shall be examined medically before their employment and at least quarterly in the case of those engaged in manufacturing/formulation units and yearly in any other cases including operators while in service by a qualified doctor who is aware of the risks to which such persons are exposed. Particulars of all such persons, including the particulars of their medical examination, shall be entered in a register in Form XVII. Where the insecticide in question is an organophosphorus compound or a carbamate compound, the blood cholinesterase level shall be measured at least once a month for all persons working in the manufacturing units. The blood residue estimation shall be done once in a year in the case of persons working with the organochlorine group of insecticides in a manufacturing/formulation unit. In the case of spraying people working with the pest-control operators, the estimation of cholinesterase level (if working with organophosphorus or carbamate compounds) and blood residue (if working with organochlorine group) shall be conducted as and when advised by the doctor as part of the general medical test.
+Any person showing symptoms of poisoning shall be immediately examined and given proper treatment.
+38. First aid measures
+In all cases of poisoning, first-aid treatment shall always be given before the physician is called. The Indian Standard Guide for handling cases of insecticide poisoning—Part I First-Aid Measures (IS: 4015 (Part I)—1967) and Part II Symptoms, Diagnosis, and Treatment (IS: 4015 (Part II)—1967) shall be consulted for such first-aid treatment in addition to any other books on the subject. The workers also should be educated regarding the effects of poisoning and the first aid treatment to be given.
+39. Protective clothing
+Persons handling insecticides during its manufacture, formulation, transport, distribution, or application, shall be adequately protected with appropriate clothing.
+The protective clothing shall be used wherever necessary, in conjunction with respiratory devices as laid down in rule 40.
+The protective clothing shall be made of materials, which prevent or resist the penetration of any form of insecticides formulations. The materials shall also be washable so that the toxic elements may be removed after each use.
+A complete suit of protective clothing shall consist of the following dresses, namely: a. Protective outer garment/overalls/hood/hat; b. Rubber gloves or such other protective gloves extending halfway up to the fore-arm, made of materials impermeable to liquids; c. Dust-proof goggles; d. Boots.
+40. Respiratory devices
+For preventing inhalation of toxic dusts, vapors, or gases the workers shall use any of the following types of respirators or gas masks suitable for the purpose, namely: a. Chemical cartridge respirator b. Supplied air respirator c. Demand flow type respirator d. Full face or half face gas masks with canister In no case shall the concentrates of insecticides in the air where the insecticides are mixed exceed the maximum permissible values.
+41. Manufacturers, etc. to keep sufficient quantities of antidotes and first-aid medicines
+The manufacturers and distributors of insecticides and persons who undertake to spray insecticide on a commercial basis (hereafter in these rules referred to as operators) shall keep sufficient stocks of such first-aid tools, equipment, antidotes, injections, and medicines as may be required to treat poisoning cases arising from inhalation, skin contamination, eye contamination, and swallowing.
+
+42. Training of Workers:
+Manufacturers, distributors, and operators must arrange training for workers on safety precautions and handling safety equipment.
+43. Aerial Spraying Operations:
+Marking: Operators are responsible for marking the area.
+Usage: Only approved insecticides and formulations are to be used at approved concentrations and heights.
+Facilities: Operators must provide washing, decontamination, and first-aid facilities.
+Notification: Public must be notified at least 24 hours in advance of any aerial operations.
+Safety: Animals and unauthorized persons must be kept away from the area.
+Training: Pilots must undergo specialized training, including learning about the clinical effects of insecticides.
+44. Disposal of Used Packages, Surplus Materials, and Washings of Insecticides:
+Responsibility: Manufacturers, formulators, and operators must ensure safe disposal to prevent environmental or water pollution.
+Prevention: Used packages should not be left outside to avoid re-use.
+Disposal Method: Packages must be broken and buried away from habitation.
+
+Chapter IX: Miscellaneous
+45. Importation of Insecticides:
+Insecticides can only be imported through specific places like Ferozepur, Amritsar, Madras, Calcutta, Bombay, Cochin, Kandla, Delhi, and Ahmedabad, depending on the mode of import (rail, sea, air).
+46. Travel and Allowances:
+Members of the Board, Registration Committee, and other committees are entitled to travel and other allowances equivalent to Grade I officers of the Central Government.
+
+The First Schedule:
+Form I - Application for Registration of Insecticides:
+Applicant's details (Name, address, industry category).
+Manufacturing premises' address.
+Common and trade name of the insecticide.
+Specify if the application is for import or manufacture.
+For import: Provide manufacturer's details.
+For manufacture: State if it’s for domestic use or export.
+Provide chemical composition, stability, self-life, toxicity, and efficacy data.
+Instructions for storage, use, first aid, and precautions.
+Submit specifications, test reports, labels, and packing details.
+Provide fee particulars.
+Form II - Certificate of Registration of Insecticides:
+Issued by the Government, detailing the insecticide's registration number, name, and conditions.
+Form II-A - Provisional Registration Certificate:
+Provisional registration valid for two years, specifying conditions if any.
+Form II-B - Appeal Form:
+For appealing under Sec. 10 of the Insecticides Act, 1968, with required details.
+Form III - Application for Manufacturing License:
+Includes applicant's details, manufacturing premises, expert staff, compliance with Chapter VIII, and fee particulars.
+Form IV - Application for License Renewal:
+Application for renewal of manufacturing license, stating that all details remain unchanged.
+Form V - Manufacturing License:
+Issued with expert staff names, insecticides to be manufactured, conditions, and validity period.
+Form VI - Application for Selling License:
+For applying to sell or distribute insecticides, including applicant's details, principals, and premises information.
+Form VII - Application for License Renewal:
+For renewal of selling license, stating that the details remain the same.
+Form VIII - Selling License:
+License to sell, stock, or distribute insecticides, specifying conditions and validity.
+Form IX - Report of Insecticide Analyst:
+Report of analysis conducted on insecticide samples, including results and test protocols.
+Form X - Order to Stop Disposal:
+An order to stop the sale, distribution, or use of insecticide stock suspected of violating the Insecticides Act, 1968.
+Form XI - Receipt for Seized Insecticides:
+A receipt for insecticides seized under Sec. 21 (1) (d) of the Insecticides Act, 1968.
+Form XII - Intimation of Sample Collection:
+Notice to the person/licensee from whom insecticide samples are taken for analysis.
+Form XIII - Sales Register:
+A register documenting sales to bulk consumers, with details on the insecticides sold, purchaser information, and batch details.
+
+FORM XIV (Monthly Return of Sales of Insecticides)
+
+FORM XV (Stock Register of Technical Grade Insecticide)
+
+FORM XVI (Stock Register for Formulated Insecticide)
+
+FORM XVII (Report of Insecticides Analyst)
+
+FORM XVIII (Order to Stop Distribution/Sale/Use of Stock)
+
+FORM XIX (Receipt for Seized Insecticides)
+
+FORM XX (Intimation to Person/Licensee from whom Samples are Taken)
+
+FORM XXI (Memorandum of Government Analyst)
+
+FORM XXII (Register of Persons Engaged in Connection with Insecticides)
+
+
+
+
+THE SECOND SCHEDULE   
+[See rule 25]  
+  
+Fees for testing or analyzing the samples of Insect icides 
+  
+Sr. 
+No. Name of Insecticide Type of formulation Testing as per 
+bureau of Indian 
+Fees for Testing or Analyzing the Samples of Insecticides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+113 Dalapon Technical 8267-1976 180 
+114 Dalanon Wettable powder 8286-1976 170 
+115 2,4-D Sodium Salt Technical 4321-1978 130 
+116 Diuron Technical 8702-1978 110 
+117 Diuron Wettable powder 8703-1978 120 
+118 Fluchloralin Technical 8958-1978 200 
+119 Fluchloralin Emulsifiable conc 8959-1978 240 
+120 MCPA Technical 8494-1977 135 
+121 Nitrofen Technical 8956-1978 210 
+122 Nitrofen Emulsifiable conc 8957-1978 240 
+123 Paraquate Dichloride Soluble liquid 8397-1977 2 00 
+124 Propanil Technical 8701-1976 200 
+125 Propanil Emulsifiable conc 8027-1977 205 
+126 Triallate Technical 9557-1980 210 
+127 Triallate Emulsifiable conc 9858-1980 240 
+F PLANT GROWTH 
+REGULATORS       128 Chlormequat chloride Technical 8961-1978 135 
+G FUMIGANTS       
+129 Aluminium Phosphide Tablet 6438-1980 60 
+130 Ethylene dibromide Technical 1311-1966 95 
+131 Ethylene dichloride: 
+Carbon Tetrachloride 
+mixture (3:1 v/v/) Technical 634-1965 130 
+132 Methyl Bromide Technical 1312-1980 85 
+133 Warfarin Technical 5558-1970 185 
+134 Warfarin Bait conc 5540-1970 160 
+135 Warfarin (Sodium Salt) Technical 5551-1970 185 
+136 Warfarin (Sodium Salt) Soluble liquid 7168-1973  260 
+137 Zinc Phosphide Technical 1251-1984 60 
+  
+2.      The fees for test or analysis in respect of  insecticides or their various 
+formulations other than the ones specified in this schedule shall be as follows unless 
+otherwise specified by the Central Government or by  any other officer authorized in 
+this behalf from time to time:  
+ 
+Sr. No.  Testing Charges (in Rs.) 
+1 Technical Grade 160 
+2 Dusting Powder 125 
+3 Wettable powder 160 
+4 Emulsifiable Conc 205 
+5 Granules 225 
+6 Other formulations 210 
+  
+  SUPLEMENTARY AMENDMENT  
+THE INSECTICIDES ACT, 1968  
+  
+NOTIFICATION  
+  
+S. O. 15 (E), dated 1st January, 1996, - In exercis e of the powers conferred by sub-
+section (22) of Sec. 27 of the Insecticides Act, 19 68 (46 of 1968), the Central 
+Government hereby passes the following orders, name ly: - 
+ 
+"(i) The manufacture and use of Benzene Hex chlorid e shall be phased out 
+progressively and the production of its technical g rade material/formulations by the 
+existing manufactures reduced to the extent of 50 p er cent. By 31 st  March, 1996 and 
+totally banned by 31 st  March 1997; and the certificate of Registration in  respect of 
+Benzene Hex chloride issued to various firms/person s shall be deemed to have been 
+cancelled w. e. f. 1 st  April, 1997.Meanwhile, ban on grant of new 
+registration/manufacturing licenses for production/ formulation of Benzene Hex 
+chloride shall continue.  
+  
+ (ii) The manufacturing licenses issued to various registrants of Benzene Hex chloride 
+for setting up of Benzene Hex chloride manufacturin g units (both technical and 
+formulation) shall be cancelled in respect of those  firms / persons which are yet to 
+create facilities for manufacture of Benzene Hex ch loride formulations.  
+ 
+(iii) The Certificate of registration in respect of  Benzene Hex chloride shall be 
+deemed to have lapsed in respect of those registran ts who are yet to obtain 
+manufacturing licenses.  
+  
+(iv) The State Governments shall take such steps as  it may deem fit for carrying into 
+execution of these orders in that State." 
+  
+  
+  SUPPLEMENTARY AMENDMENTS  
+THE INSECTICIDES (AMENDMENT) RULES, 1999  
+  
+G.S.R. 371 (e) , dated 20th may, 1999- In exercise of the powers conferred by Sec. 36 
+of the Insecticides Act, 1968 (46 of 1968), the Cen tral Government, after consultation 
+with the Central Insecticides Board hereby makes th e following rules, further to amend 
+the Insecticides Rules, 1971, namely : - 
+  
+1.       SHORT TITLE AND COMMENCEMENT  
+(a) These rules may be called the Insecticides (Ame ndment) rules, 1999.  
+(b) They shall come into force on the date of their  publication in the Official 
+Gazette  
+2.      In the Insecticides Rules, 1971 (hereinafte r referred to as the said rules), in rule 
+2, after Cl. (q), the following clauses shall be in serted, namely: 
+(r) 'Commercial Pest Control Operation'  means any application or dispersion of 
+Insecticide(s) including fumigants in household or public or private premises or 
+land and includes pest control operations in the fi eld including aerial applications 
+for commercial purposes but excludes private use; 
+ 
+(s) "Pest Control Operators" means any person who u ndertakes pest control 
+operations and includes the person or the firm or t he company or the 
+organisation under whose control such a person(s) i s operating". 
+  
+3.   In rule 6 of the said rules - 
+(a) for sub-rule (2), the following sub-rule shall be substituted, namely :-  
+  
+"(2) An application form duly filled together with a bank draft, drawn in favour of 
+the Accounts Officer, Directorate of Plant Protecti on, Quarantine, & Storage, 
+payable at Faridabad towards registration fee shall  be sent to the Secretary, 
+Registration Committee, Directorate of Plant Protec tion, Quarantine and Storage, 
+NH-IV, Faridabad -; 121001. Haryana. The fee shall be payable as follows: - 
+  
+i. rupees five thousand each in case of application  for registration under Secs. 
+9(3) and 9(3-B) of the Insecticides Act, 1968;  
+ii.   Rupees two thousand five hundred in case of a pplication for registration 
+under Sec. 9 (4) of the Insecticides Act, 1968".  
+  
+b.  for sub-rule 6(A), the following sub-rule shall be substituted, namely -  
+  
+"(6) (A) Issue of duplicate Certificate of Registra tion - A fee of rupees one 
+hundred shall be paid in the form of demand draft d rawn on the State Bank of 
+India, Faridabad in favour of the Accounts Officer,  Directorate of Plant Protection, Quarantine and Storage, Faridabad, Haryana for a du plicate copy of a Certificate 
+of Registration if the original is defaced, damaged  or lost." 
+c.  after sub-rule 6(A), so amended, the following rule  shall be inserted, 
+namely ?  
+d.  "(6) (B) Addition, deletion or alteration on the Ce rtificate of Registration 
+including labels and leaflets - A fee of rupees one  hundred shall be paid in the 
+form of demand draft drawn on the State Bank of Ind ia, Faridabad, in favour of 
+the Accounts Officer. Directorate of Plant Protecti on, Quarantine and Storage, 
+Faridabad, Haryana on each occasion for each Certif icate of Registration for 
+addition, deletion, alteration on the Certificate o f Registration including labels and 
+leaflets". 
+  
+4.       In rule 7 of the said rules -; 
+(a) for sub-rule (3), the following sub-rule shall be substituted, namely : -  
+"(3) Every appeal shall be accompanied by a demand draft of rupees one 
+thousand towards fee and a copy of the decision app ealed against". 
+  (b) for sub-rule (4), the following sub-rule shal l be substituted, namely :-  
+ "(4) The fee payable for preferring an appeal shal l be paid by a demand draft 
+drawn on the State Bank of India, New Delhi in favo ur of the Pay and Accounts 
+Officer, Department of Agriculture and Co-operation , New Delhi." 
+  
+5.       In rule 9 of the said rules - 
+(a) for sub-rule (1), the following sub-rule shall be substituted, namely -  
+"(1) Application for the grant or renewal of a lice nse to manufacture any 
+insecticide shall be made in Form III or Form IV, a s the case may be, to the 
+licensing officer and shall be accompanied by a fee  of rupees two thousand for 
+every insecticide and a maximum of rupees twenty th ousand for all insecticides 
+for which the license is applied." 
+  (b) for sub-rule (5), the following sub-rule shal l be substituted, namely :-  
+  
+"(5) A fee of rupees one hundred shall be paid for a duplicate copy of a license 
+issued under this rule, if the original is defaced,  damaged, or lost". 
+  
+6.       In rule 10 of the said rules - 
+a.       for sub-rule (2), the following sub-rule s hall be substituted, namely:-  
+  
+" (2) The fee payable under sub-rule (1) for grant or renewal of a license shall be 
+rupees five hundred for every insecticide for which  the license is applied. There 
+shall be a separate fee for each place, if any inse cticide is sold, stocked or 
+exhibited for sale at more than one place: 
+  Provided that the maximum fee payable in respect of  insecticides commonly used 
+for household purposes and registered as such shall  be rupees seven thousand 
+five hundred for every place: 
+  
+Provided further that, if the place of sale is esta blished in the rural areas, the fee 
+shall be one fifth of the fee specified in this rul e." 
+  
+b.      after sub-rule (3), the following sub-rule 3 (A) shall be inserted, namely :-  
+  
+"3-A. Pest Control Operators ? 
+(i)      Any person who desires to undertake pest c ontrol operations, with the use 
+of Aluminium Phosphide, Methyl bromide, Ethylene di bromide or as notified shall 
+apply for a license in Form VI-A with a fee of rupe es one thousand for each place 
+of operation. The license granted for such operatio ns shall be valid for a period of 
+five years provided that the license shall be renew ed after verification or 
+inspection at the expiry of this period on applicat ion in Form VI-B for a further 
+period of five years with an application fee of rup ees one thousand.  
+  
+(ii)    A license to stock and use insecticides for  pest control operators will be 
+issued in Form VI-C. 
+  
+(iii)   Any person who applies for grant of license  for undertaking pest control 
+operations should be at least a graduate in Agricul ture or in Science with 
+Chemistry as a subject with a certificate of minimu m 15 days training from any of 
+the following institutions -;Central Food Technolog ical Research Institute. Mysore, 
+Indian Grain Storage Institute, Hapur and National Plant Protection Training 
+Institute, Hyderabad.  
+  
+(iv)  For understanding fumigation, the pest contro l operators shall have to 
+obtain special permission from the Plant Protection  Adviser to the Government of 
+India in addition to obtaining license. The Plant P rotection Adviser will grant such 
+permission as per procedure or guidelines approved by the Registration 
+Committee.  
+  
+(v)    The commercial pest control operators shall adhere to the prescribed 
+guidelines or procedures as laid down by the Plant Protection Adviser to the 
+Government of India in regard to the fumigation ope rations undertaken by them. 
+" 
+  c.       for sub-rule (6) the following sub-rule shall be substituted namely: 
+  
+"(6) a fee of rupees one hundred shall be payable f or a duplicate copy of a 
+license issued under this rule if the original is d efaced, damaged or lost." 
+  7.      In rule 11 of the said rules, - 
+1. for sub-clauses (b) (i) and (b) (ii), the follow ing sub-clauses be 
+substituted, namely :-  
+"b (i) rupees five hundred for the first month or p art thereof, rupees one 
+thousand for the second month or part thereof and r upees one thousand and five 
+hundred for the third month or part thereof, in cas e of license to manufacture 
+insecticides or to carry pest control operations; 
+  
+(ii) rupees one hundred for the first month or part  thereof, rupees two hundred 
+for the second month or part thereof and rupees thr ee hundred for the third 
+month or part thereof, in case of any other license  shall be paid along with the 
+application for renewal.  
+  
+Provided that where the main pest control operation  unit or the place of sale is 
+located in the rural areas, the late fee shall be o ne-fifth off the said late fee: 
+  
+Provided further that in case of death or disabilit y of the licensee, the licensing 
+Officer may after recording reasons in writing, exe mpt the applicant from 
+payment of the late fee." 
+  
+2. for Cl. (c) the following clause shall be substi tuted, namely :-  
+" (c) The license shall continue to be in force unt il it is renewed or revoked. 
+Where an appeal is preferred under Sec. 15, the lic ense shall continue to be 
+revoked until disposal of appeal or as ordered by t he appellate authority pending 
+disposal of the appeal." 
+8.      In rule 14 of the said rules, for sub-rule (2), the following sub-rule shall be 
+substituted, namely: - 
+" 2. The application under sub-rule (1) shall be ac companied by a fee of rupees 
+one hundred. " 
+9.      In the First Schedule to the said rules, af ter Form VI, the following from shall be 
+inserted, namely:- 
+  FORM VI-A  
+[See rule 10 (3-A0]  
+  
+Application for the grant of license to stock and u se restricted insecticide(s) for 
+commercial pest control operation (s).  
+  
+To,  
+The Licencing Authority,  
+ 
+1.      Full name of the applicant (Block letters)  
+  
+2.      Address:  
+i. Registered Office.  
+ii  Office  
+iii. Premises for which application is made.  
+  
+3.       Is the applicant already in business or ne wcomer  
+  
+4.       Qualifications of responsible technical pe rson*  
+i.  Educational Qualification.  
+ii. Training in pest control operation.  
+iii. Experience in using restricted insecticide(s) (Attach proof in respect of claims).  
+  
+5.      If in the trade, give full particulars of t he names of restricted insecticide(s) 
+handled and categories of operations undertaken, th e period and the place(s) at which 
+the trade was carried on.  
+  
+6.      Quantity(s) of each restricted insecticide in possession on the date of application 
+[Give details of place(s) where it is stored].  
+  
+7.      Details of persons engaged or proposed to b e engaged (Attach separate sheet, 
+duly authenticated).  
+  
+8.      Details of safety applications available al ong with antidotes and all other facilities 
+required under chapter will be stored for use.  
+  
+9.      Situations of the branch offices and depots  where the restricted insecticide(s) will 
+be stored for use.  
+  
+10.  Name(s) of restricted insecticide(s), which th e applicant desires to use.  
+  
+11.  Category (ies) applied for.  
+  
+12.  Particulars of the fee(s) deposited. 
+  
+13.  Whether permission obtained from Plant Protect ion Adviser to the Government of 
+India for undertaking fumigation (Attach Proof & Va lidity).  
+  
+_____________________ 
+ Signature of the applicant 
+    
+VERIFICATION 
+ 
+I do hereby solemnly verify that to the best of my knowledge and belief the information 
+given in the application and the annexure and state ments accompanying it is correct and 
+complete.  
+  
+I further declare that I am making this application  in my capacity as ________. And that 
+I am competent to make this application and verify it, by virtue of _______; a photo or 
+attested copy of which is enclosed herewith.  
+  
+ 
+ 
+Signature with Seal 
+Date:  
+  
+Place: 
+  
+  FORM VI-B  
+[See rule 10 (3-A)]  
+Application for renewal of license to stock and use  of restricted insecticides for 
+commercial pest control operation(s)  
+  
+To,  
+The Licensing Authority,  
+State 
+  
+I / We hereby apply for renewal of the license to s tock and use of restricted insecticide 
+for categories: I, II and III, under the name and s tyle of ________. The license desired 
+to be renewed was granted by the Licensing Authorit y and allotted a License No. On the 
+day of   ____________,19 __ 
+  
+1.      State the change, if any, in :- 
+  
+a.  Category of operation  
+b.  Expert Staff  
+c.  Restricted insecticides used.  
+d.  Premises of stocking.  
+e.  Address including of branch offices.  
+f.  Whether any new branch / unit has been opened after  grant or renewal of 
+license.  
+g.  Any other change. 
+  
+2.      Particulars of fee deposited. 
+  
+3.      Give latest details of persons engaged (att ach separate sheet, duly authenticated).  
+  
+  
+Signature of the Applicant 
+  
+  
+VERIFICATION  
+  
+I   __________________________________ s/o_________ _______________ do 
+hereby solemnly verify that to the best of my knowl edge and belief the information 
+given in the application and the annexure and state ments accompanying it, is correct. 
+  
+I further declare that I am making this application  in my capacity as (Designation) and 
+that I am competent to make this application and ve rify it, by virtue of photo / attested 
+copy of which has already been submitted.  
+  
+Signature with Seal 
+  
+Date :  
+  
+Place :  
+  FORM VI-C  
+[See rule 10 (3A)]  
+  
+License to stock and use restricted insecticide(s) for commercial pest control 
+operations  
+  
+I   ___________________________  am hereby licensed  to stock restricted insecticides 
+viz. _________________ on the premises situated at _______ and carry out 
+commercial pest control operations subject to the c onditions specified below and to the 
+provisions of the Insecticides Act, 1968 and the Ru les there under. 
+  
+2. License shall be in force from ________________ To ________________  
+  
+3. Conditions, if any  
+(i) 
+(ii) 
+(iii)  
+  
+                                                                                          License No. 
+Date                                                                          Licensing Authority Seal  
+  
+  
+For the Second Schedule to the said rules, the foll owing Schedule shall be substituted, 
+namely: - 
+ Fees for Testing or Analyzing the Samples of Insecticides
+
+
+
+Fees for Testing or Analyzing Other Formulations
+Amendments to the Insecticides Rules, 1971
+The Insecticides (Second Amendment) Rules, 1999
+Short Title and Commencement:
+a. These rules may be called the Insecticides (Second Amendment) Rules, 1999.
+b. They shall come into force on the date of their publication in the Official Gazette.
+Amendments to the Insecticides Rules, 1971:
+In rule 9, after Clause (v) and condition number 5, insert:
+"(vi) The Licensee shall obtain ISI Mark Certification from the Bureau of Indian Standards within three months of the commencement of the manufacture."
+"(vii) No Insecticides shall be sold or distributed without ISI Mark Certification."
+In rule 10:
+(a) After Clause (iii), insert:
+"(v) If the licensing officer is satisfied that a particular insecticide is harmful to human beings, animals, or the environment, he may, after recording reasons and referring the insecticide to the Insecticide Analyst, prohibit temporarily its sale for a period of thirty days or until he obtains the report of the Analyst, whichever is earlier."
+(b) In sub-rule (4-A), replace Clause (i) with:
+"(i) Every person shall, along with his application for grant or renewal of a license to undertake operation or sell, stock or exhibit for sale or distribute insecticides, file a certificate from the principal whom he represents or desires to represent in Form VI-D."
+In rule 10-A, replace sub-rule (b) with:
+"(b) All such stocks shall be disposed of in an environment-friendly manner as may be specified from time to time by the Central Government in consultation with the Central Insecticides Board and shall not be used for re-manufacture."
+In rule 35, replace the existing heading with:
+"Manner of Packing, Storage while Transporting."
+In SCHEDULE-1, after Form VI-C, insert:
+Form VI-D: Principal Certificate
+[rule 10 (4-A) (i)]
+Name and address of the Principal Certificate No: ____
+Manufacturer Date: __________
+This is to certify that M/s ___________ have applied for the grant or renewal of a License (Form VI) to sell, stock or exhibit for sale or distribute insecticides as per sub-rule (1) of rule 10 of the Insecticides Rules 1971. We authorize them to sell, stock or exhibit for sale or distribute the following insecticides in Wholesale/Retail in __________.
+Principal Certificate Validity:
+Date: _________
+Place: ________
+Signature (Authorized Signatory)
+Company's Seal
+Detailed Address
+Dealer's Acknowledgment:
+Date: __________
+Place: __________
+Signature:
+Dealer's Seal
+Name:
+Designation:
+Address of the Dealer:
+Dealer's License No. & Date (If issued for Renewal of License)
+
+ 
+ 
