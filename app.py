@@ -2,6 +2,7 @@ import os
 import re
 import streamlit as st
 
+
 def query_llm(method, query):
     command = f"python -m graphrag.query --root ./ragtest --method {method} \"{query}\""
     result = os.popen(command).read()
@@ -15,7 +16,7 @@ def query_llm(method, query):
         filtered_result = result
 
     return filtered_result
-
+os.environ["GRAPHRAG_API_KEY"] == st.secrets["GRAPHRAG_API_KEY"])
 # Initialize session state to store chat history
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
